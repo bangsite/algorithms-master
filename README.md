@@ -40,7 +40,7 @@ Practice improves algorithms and data structures, and I started as a beginner im
 - Searches
   - [ ] Linear Search `B`
   - [ ] Jump Search `B`
-  - [ ] Binary Search `B`
+  - [x] Binary Search `B`
   - [ ] Interpolation Search `B`
   
 - Sorting
