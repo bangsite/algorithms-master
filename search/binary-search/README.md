@@ -7,7 +7,7 @@ gian xuống còn O(log N).
 ## Approach
 
 1. Xác định mảng tìm kiếm ban đầu:
-    - Bắt đầu với left = 0 và right = array.length- 1.
+    - Bắt đầu với left = 0 và right = array.length - 1.
 
 2. Tìm phần tử giữa:
     - Tính chỉ số giữa: mid = Math.floor((left + right) / 2).
@@ -41,10 +41,6 @@ Given the array nums after the possible rotation and an integer target, return t
 -1 if it is not in nums.
 
 You must write an algorithm with O(log n) runtime complexity.
-
-- Search in Rotated Sorted Array
-- Search in Rotated Sorted Array
-
 </p>
 </details>
 
